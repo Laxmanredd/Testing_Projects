@@ -1,0 +1,95 @@
+Ekkati Laxman Reddy 
+Linkedin: https://www.linkedin.com/in/laxmanreddyekkati/                           Email: laxmanreddyekkati333@gmail.com 
+Github:  https://github.com/Laxmanredd                                                                                             Mobile: +91 9392428259 
+
+summary
+Final-year CSE student (CGPA 8.1) with hands-on experience building 
+production-ready AI systems — including a 3-phase RAG pipeline over 
+500 research papers and an LLM-powered document assistant with 200ms 
+latency. Skilled in Python, NLP, LLMs, Generative AI, EDA and 
+Predictive Modeling. Seeking Data Science or AI/ML roles to build 
+intelligent, data-driven solutions at scale.
+
+Languages: Python, Java, Kotlin, SQL
+Tools/Platforms: Excel, Tableau, , cucumber, HuggingFace, Groq API, Selenium, TestNG, Docker, Jenkins, Git/GitHub
+AI/ML & Data Science: Machine Learning, Deep Learning, NLP, LLMs, RAG, Transformers, Prompt Engineering, EDA, Predictive Modeling, Data Preprocessing, Data Visualization, Feature Engineering, PCA, Model Evaluation
+Soft Skills: Problem-Solving, Communication, Teamwork, Adaptability, Project Management
+
+
+Programmer Analyst Trainee Cognizant Technology Solutions (GenC Program)
+Jan 2026-Present
+Built and shipped an end-to-end test automation backend designing a fault-tolerant Selenium TestNG framework with structured exception handling, try-catch at every layer, WebDriver Wait synchronization, and Assert-based validation to cover edge cases and failure modes beyond the happy path.
+Integrated with external REST APIs using REST Assured writing and validating GET, POST, PUT, PATCH, DELETE requests with JSON/XML schema validation, status code assertions and data-driven parameterization via CSV and JSON.
+Worked across a full backend-aligned stack Java, Maven, GIT/GitHub, Jenkins CI/CD, Docker containers, BDD Cucumber, and Agile
+sprint workflows collaborating with senior engineers on system design, service orchestration, and iterative delivery under real deadlines.
+
+
+
+Multi-Phase AI Retrieval & Analytics System             feb-march 2026
+
+Python · NLP · LLMs · RAG · ChromaDB · Groq · BM25 · NetworkX · Plotly  groq eda· Streamlit
+
+Live : https://projectrag-k8tzafmzgbn83a3ztmhpqf.streamlit.app
+
+• Architected a 3-phase RAG pipeline (Dense → Hybrid → Graph RAG) over 500 arXiv
+  papers, combining BM25 sparse + bi-encoder dense retrieval fused via Reciprocal
+  Rank Fusion (RRF) and cross-encoder reranking — achieving Recall@5 of 0.76 and
+  43% MRR improvement over single-retriever baseline across 30 evaluation benchmarks.
+
+• Designed a Graph RAG layer on top of hybrid retrieval — BFS-expanding 1-hop
+  citation neighbours from seed papers via NetworkX, combining graph-retrieved
+  chunks with reranked dense results for deeper cross-paper reasoning.
+
+• Engineered a 3-signal confidence scorer (retrieval sigmoid + LLM self-rating +
+  chunk agreement) and a 9-chart EDA dashboard with PCA embedding projection and
+  retrieval score analysis, making the pipeline fully interpretable end-to-end.
+
+
+
+
+
+
+DataGroq — Smart Document Analysis Assistant                          Sept 2025
+Python · Groq API · NLP · ML · EDA · Plotly · Streamlit
+Live Demo: https://huggingface.co/spaces/laxmanekkati/datagroq-ai
+
+• Engineered an AI-powered document analysis assistant using Groq API (LLaMA-3),
+  enabling conversational Q&A over 200+ documents and datasets with ~200 ms
+  response latency and safe Python code execution for automated insight generation.
+
+• Built end-to-end NLP pipeline covering tokenization, stopword removal,
+  lemmatization, document classification and keyword extraction — improving
+  analytical accuracy by 30% over baseline keyword search.
+
+• Designed 8+ interactive visualizations (EDA charts, correlation heatmaps,
+  word clouds, ML performance plots) using Plotly, reducing manual document
+  analysis time by 70% and enabling insight extraction without coding.
+
+
+Traffic Analysis Dashboard — Real-Time Geospatial Intelligence        Jan 2025 – Feb 2025
+Tableau Python Google Sheets Geoapify API Geospatial Analytics
+
+Designed an automated real-time traffic dashboard in Tableau integrating Google Sheets and Geoapify API data streams — visualizing route efficiency, commercial hotspots and key traffic metrics, improving navigation insights by 80%.
+Built an end-to-end data extraction and transformation pipeline across multiple APIs, automating dataset refresh cycles and reducing manual processing effort by 80%.
+Enabled data-driven geospatial decision-making by mapping traffic patterns and location intelligence, contributing to a 15% increase in operational efficiency..
+
+
+cerification
+Associate Data Practitioner Certification  (https://www.credly.com/badges/27f944a2-304a-4a51-aa25-24d7358bb181/public_url)  April 2026
+  Associate Data Practitioner Certification )( https://www.credly.com/badges/455e23df-2be1-47ef-baef-c05ba7b8693f/public_url) march 2026
+Data Visualization with Tableau  nov 2024
+(https://www.coursera.org/account/accomplishments/verify/X4ERW6MLHYTE)
+
+
+
+ACHIEVEMENTS                                                                                                                                                                             
+Achieved 5 Star rating in SQL | HackeRank                                                                                                                             Feb 2025 
+  EDUCATION 
+Lovely Professional University                                                                                                                 Phagwara, Punjab 
+Bachelor of Technology                                                                                                                                      August 2022 – Present 
+Computer Science and Engineering; CGPA: 8.1
+Sri Chaitanya Junior College                                                                                                            Hyderabad, Telangana 
+Intermediate                                                                                                                                                         April 2021 – May 2022 
+Percentage: 96.8% 
+Disney Land High School                                                                                                                      Warangal, Telangana 
+Matriculation                                                                                                                                                    April 2019 – March 2020 
